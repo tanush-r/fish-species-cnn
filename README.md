@@ -43,7 +43,7 @@ In this deep learning project, we are using Convolutional Neural Networks(using 
 
 ## Getting Started
 
-* Run [server.py]() to start the REST API
+* Run [server.py](https://github.com/tanush-r/fish-species-cnn/blob/main/server.py) to start the REST API
 * Use Postman/cURL on command-line to pass the image (localhost/predict)
 * The REST API will return a JSON
 
